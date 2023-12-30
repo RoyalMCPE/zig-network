@@ -1,0 +1,6 @@
+id: xft80de8xp48uyy7sqbpkfnkw0w7hhotpk5imbtvaayuobby
+name: network
+main: network.zig
+license: MIT
+description: A smallest-common-subset of socket functions for crossplatform networking, TCP & UDP
+dependencies:
